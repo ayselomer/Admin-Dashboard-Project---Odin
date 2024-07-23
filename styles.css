@@ -203,3 +203,60 @@ button{
 .card img{
     padding-right: 20px;
 }
+
+
+
+
+.ann-card, .trend-card{
+    background-color: white;
+    margin: 20px 30px 20px 30px;
+    padding-top: 10px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+.announcements h5{
+    padding-left: 15px;
+}
+.ann-card p{
+    font-size: 12px;
+    padding-left: 20px;
+    margin-top: 1px;
+    width: 200px;
+
+    
+}
+
+.ann-card h5{
+    padding-bottom: 0;
+    padding-left: 0px;
+}
+
+.divider{
+    border: 1px solid #cbd5e1;
+    width: 200px;
+    margin-left: 20px;
+    
+}
+
+.trend-content{
+    display: flex;
+    gap: 20px;
+    margin-top: 0;
+    justify-content: flex-start;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.trend-icon img{
+    height: 40px;
+}
+
+.trend-content h6{
+    margin: 0;
+    margin-top: 3px;
+}
+
+.trend-content p{
+    font-size: 10px;
+    margin: 3px;
+}
